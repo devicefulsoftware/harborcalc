@@ -2,175 +2,36 @@
 <instant-run
     abi="x86"
     api-level="25"
-    density="xhdpi"
+    density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="26943326414177"
-    token="6236449568238918742"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="34175093538573"
+    token="7987607245404186654"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="107" />
+        duration="241" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="91" />
     <task
         name="verifier"
-        duration="1" />
+        duration="6" />
 
     <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_a765b743ca5fa4ca99c8ff2da456b5fd3b0ec450/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_0fc5f0b79dde8bf01f8d15a31c1ed7c95d9b2477/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58c369194ba03bef00791719175461e5fdb3fa94/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_d0fa3624e75285a14a1d1f211bc82af71796ef8d/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/2/bsh-2.0b4_1602b2c9988de585f3ae509fb6ba2e7dee02ce47/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb543e1ca7177779c0fc62ad93244c396cb1e2c3/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_caacd2181214535b02f9fd4a1346246406667436/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_ebc3ca10a02d9669e46bd6b017c9e20bc323b8c7/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_a8b33f9a59bddeb1f43a0ef2da596fa442924a36/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_05aa0150a79c03dba9a08836ba5591729b3ce7e3/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_13da9565b62cedef3f1439d7a1b5de0d202b8a82/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_9c6a9d88e269f83d07bb61f5bfd000a9f29afcaf/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_9fda39b6fc1d31954af59472c68cb5efe877af24/classes.dex"
-        type="DEX" />
+        location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="24429116871934"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="34175093538573"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/outputs/apk/app-debug.apk"
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="26943326414177"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_a765b743ca5fa4ca99c8ff2da456b5fd3b0ec450/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_0fc5f0b79dde8bf01f8d15a31c1ed7c95d9b2477/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58c369194ba03bef00791719175461e5fdb3fa94/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_d0fa3624e75285a14a1d1f211bc82af71796ef8d/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/2/bsh-2.0b4_1602b2c9988de585f3ae509fb6ba2e7dee02ce47/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb543e1ca7177779c0fc62ad93244c396cb1e2c3/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_caacd2181214535b02f9fd4a1346246406667436/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_ebc3ca10a02d9669e46bd6b017c9e20bc323b8c7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_a8b33f9a59bddeb1f43a0ef2da596fa442924a36/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_05aa0150a79c03dba9a08836ba5591729b3ce7e3/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_13da9565b62cedef3f1439d7a1b5de0d202b8a82/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_9c6a9d88e269f83d07bb61f5bfd000a9f29afcaf/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/cletus/Development/git-projects/harborcalc-free/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_9fda39b6fc1d31954af59472c68cb5efe877af24/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

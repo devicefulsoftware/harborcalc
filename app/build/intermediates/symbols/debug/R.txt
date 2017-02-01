@@ -602,12 +602,12 @@ int id icon 0x7f0c002c
 int id icon_group 0x7f0c009a
 int id ifRoom 0x7f0c001f
 int id image 0x7f0c0029
-int id imageLogo 0x7f0c007e
+int id imageLogo 0x7f0c007f
 int id imageView 0x7f0c0057
 int id info 0x7f0c0097
 int id layerLogo 0x7f0c007d
 int id layerScroll 0x7f0c0061
-int id layer_Ads 0x7f0c007f
+int id layer_Ads 0x7f0c0080
 int id layer_calcScreen 0x7f0c0062
 int id layer_fifthRow 0x7f0c0064
 int id layer_firstRow 0x7f0c0078
@@ -678,7 +678,7 @@ int id textSpacerNoTitle 0x7f0c0034
 int id textTitle 0x7f0c0059
 int id textUrl 0x7f0c005f
 int id textVersion 0x7f0c005b
-int id textView 0x7f0c0080
+int id textView 0x7f0c007e
 int id textView2 0x7f0c0089
 int id textView_calc 0x7f0c0063
 int id time 0x7f0c0095

@@ -282,6 +282,17 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/layerLogo">
 
+                <TextView
+                    android:text="There should be ads displayed here."
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/textView"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:textAlignment="viewStart"
+                    android:layout_gravity="start"
+                    android:paddingTop="12dp" />
+
                 <ImageView
                     android:layout_width="wrap_content"
                     app:srcCompat="@mipmap/ic_launcher"
@@ -296,17 +307,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:id="@+id/layer_Ads">
-
-                <TextView
-                    android:text="There should be ads displayed here."
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:id="@+id/textView"
-                    android:layout_weight="1"
-                    android:textSize="24sp"
-                    android:textAlignment="viewStart"
-                    android:layout_gravity="start"
-                    android:paddingTop="12dp" />
 
             </LinearLayout>
         </LinearLayout>

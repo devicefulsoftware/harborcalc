@@ -1920,12 +1920,12 @@ containing a value of this type.
         public static final int icon_group=0x7f0c009a;
         public static final int ifRoom=0x7f0c001f;
         public static final int image=0x7f0c0029;
-        public static final int imageLogo=0x7f0c007e;
+        public static final int imageLogo=0x7f0c007f;
         public static final int imageView=0x7f0c0057;
         public static final int info=0x7f0c0097;
         public static final int layerLogo=0x7f0c007d;
         public static final int layerScroll=0x7f0c0061;
-        public static final int layer_Ads=0x7f0c007f;
+        public static final int layer_Ads=0x7f0c0080;
         public static final int layer_calcScreen=0x7f0c0062;
         public static final int layer_fifthRow=0x7f0c0064;
         public static final int layer_firstRow=0x7f0c0078;
@@ -1996,7 +1996,7 @@ containing a value of this type.
         public static final int textTitle=0x7f0c0059;
         public static final int textUrl=0x7f0c005f;
         public static final int textVersion=0x7f0c005b;
-        public static final int textView=0x7f0c0080;
+        public static final int textView=0x7f0c007e;
         public static final int textView2=0x7f0c0089;
         public static final int textView_calc=0x7f0c0063;
         public static final int time=0x7f0c0095;
