@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutLogo"
+        android:elevation="12dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:id="@+id/imageView"
+            app:srcCompat="@mipmap/ic_launcher"
+            android:cropToPadding="false"
+            android:layout_height="138dp"
+            android:adjustViewBounds="true"
+            android:onClick="clickLogo"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutTitle">
+
+        <TextView
+            android:text="Harborcalc Free Edition"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textTitle"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:textSize="21sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutVersion">
+
+        <TextView
+            android:text="Version 0.1a"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textVersion"
+            android:layout_weight="1"
+            android:textSize="21sp"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutCopyright">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textCopyright"
+            android:layout_weight="1"
+            android:text="Copyright © 2017 Deviceful Software, Inc. All rights reserved."
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutURl">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textUrl"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:autoLink="web"
+            android:text="@string/home_url" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.devicefulsoftware.harborcalc_free"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="HarborCalc"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HarborCalcDark" >
+
+        <!-- The main/home activity -->
+        <activity
+            android:name="com.devicefulsoftware.harborcalc_free.calculatorScreen"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- Children of the main activity -->
+        <activity
+            android:name="com.devicefulsoftware.harborcalc_free.aboutScreen"
+            android:parentActivityName="com.devicefulsoftware.harborcalc_free.calculatorScreen"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.devicefulsoftware.harborcalc_free.calculatorScreen" />
+        </activity>
+        <activity
+            android:name="com.devicefulsoftware.harborcalc_free.hiddenMenu"
+            android:parentActivityName="com.devicefulsoftware.harborcalc_free.calculatorScreen"
+            android:screenOrientation="portrait" >
+
+            <!-- Meta data element for versions lower than 4.1 -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.devicefulsoftware.harborcalc_free.calculatorScreen" />
+        </activity>
+        <activity
+            android:name="com.devicefulsoftware.harborcalc_free.contactMenu"
+            android:parentActivityName="com.devicefulsoftware.harborcalc_free.hiddenMenu"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.devicefulsoftware.harborcalc_free.contactMenu" />
+        </activity>
+    </application>
+
+</manifest>

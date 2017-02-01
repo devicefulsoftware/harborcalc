@@ -1,0 +1,38 @@
+<resources>
+    <style name="Theme.HarborCalcDark" parent="Theme.AppCompat" >
+        <item name="colorAccent">@color/harborcalc_blue</item>
+        <item name="android:textColorPrimary">@color/harborcalc_green</item>
+        <item name="android:textColorSecondary">@color/harborcalc_green</item>
+        <item name="android:actionBarStyle">@style/HarborCalcActionBar_Dark</item>
+        <item name="android:textViewStyle">@style/HarborCalcTextViewStyle_Dark</item>
+        <item name="android:statusBarColor">@color/harborcalc_green</item>
+    </style>
+    <style name="HarborCalcActionBar_Dark" parent="@android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:background">@color/harborcalc_green</item>
+        <item name="android:textColor">@color/harborcalc_blue</item>
+    </style>
+    <style name="HarborCalcTextViewStyle_Dark" parent="Theme.HarborCalcLight">
+        <item name="android:textColor">@color/harborcalc_green</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColorLink">@color/harborcalc_blue</item>
+    </style>
+
+    <style name="Theme.HarborCalcLight" parent="Theme.AppCompat.Light" >
+        <item name="colorAccent">@color/harborcalc_green</item>
+        <item name="android:textColorPrimary">@color/harborcalc_blue</item>
+        <item name="android:textColorSecondary">@color/harborcalc_blue</item>
+        <item name="android:actionBarStyle">@style/HarborCalcActionBar_Light</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:textViewStyle">@style/HarborCalcTextViewStyle_Light</item>
+        <item name="android:statusBarColor">@color/harborcalc_blue</item>
+    </style>
+    <style name="HarborCalcActionBar_Light" parent="@android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:background">@color/harborcalc_blue</item>
+        <item name="android:textColor">@color/harborcalc_green</item>
+    </style>
+    <style name="HarborCalcTextViewStyle_Light" parent="Theme.HarborCalcLight">
+        <item name="android:textColor">@color/harborcalc_blue</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColorLink">@color/harborcalc_green</item>
+    </style>
+</resources>
