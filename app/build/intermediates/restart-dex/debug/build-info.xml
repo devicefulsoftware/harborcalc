@@ -5,33 +5,47 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1736668232627"
+    timestamp="22376395096384"
     token="7987607245404186654"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2942" />
+        duration="179" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="335" />
+        duration="6" />
     <task
         name="verifier"
-        duration="8" />
+        duration="0" />
 
     <artifact
-        location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="1736668232627"
+        timestamp="21941383239512"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="22253785509772"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="22376395096384"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
