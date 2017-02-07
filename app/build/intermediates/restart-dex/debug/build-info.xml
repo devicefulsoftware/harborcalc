@@ -5,13 +5,13 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="22376395096384"
+    timestamp="24012029539000"
     token="7987607245404186654"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="179" />
+        duration="166" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -20,8 +20,11 @@
         duration="6" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
 
+    <artifact
+        location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
     <artifact
         location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
         type="DEX" />
@@ -34,15 +37,81 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="22253785509772"
+        timestamp="22677884703729"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_9f8cbe9c10a4f59e3c65aee08672c30673d4eb76/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_01b715f9384ea20b8c4374976ff04e6e278cd49b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_b1d4d389759ec386195121774ec6d7ffbf97a4ba/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_a7dc0cd13733bdb8320b1a1d89747e5872c5f93c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_abaf421b07e3025af64f7c0ac66838714794f048/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_782471252b9bbfca84ac4f11a3d500150667cdc5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_d0fa3624e75285a14a1d1f211bc82af71796ef8d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_7be52862760a4272c01b3ac4d52ff0403ad39211/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3db129efab4173aafa0bde7de2fa5096b922afe/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/2/bsh-2.0b4_29dcf6c3b183d0dd6d474193c76841320053cff0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_62702168bd408b4334de4570ac4e86092812fa19/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_63d59f6c98cfe6ca9e767228159d7677239934bb/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_828697fabb5f0cb7765765da2812d2a26d50921b/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="24012029539000"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
-    </build>
-    <build
-        timestamp="22376395096384"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
             type="DEX" />

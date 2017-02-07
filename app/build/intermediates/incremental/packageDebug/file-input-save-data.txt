@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Feb 06 23:00:31 CST 2017
+#Mon Feb 06 23:29:12 CST 2017
 20.base=/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
 143.base=/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/resources-debug.ap_
 439.set=ANDROID_RESOURCE

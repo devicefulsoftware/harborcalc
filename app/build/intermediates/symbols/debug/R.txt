@@ -524,7 +524,6 @@ int drawable notification_template_icon_bg 0x7f02005f
 int drawable notification_template_icon_low_bg 0x7f020060
 int drawable notification_tile_bg 0x7f02005d
 int drawable notify_panel_notification_icon_bg 0x7f02005e
-int id  layout_gridView 0x7f0c0081
 int id Settings 0x7f0c009d
 int id about 0x7f0c009c
 int id action0 0x7f0c0088
@@ -617,6 +616,7 @@ int id layoutLogo 0x7f0c0056
 int id layoutTitle 0x7f0c0058
 int id layoutURl 0x7f0c005e
 int id layoutVersion 0x7f0c005a
+int id layout_gridView 0x7f0c0081
 int id light_theme 0x7f0c009f
 int id line1 0x7f0c0097
 int id line3 0x7f0c0099

@@ -1842,7 +1842,6 @@ containing a value of this type.
         public static final int notify_panel_notification_icon_bg=0x7f02005e;
     }
     public static final class id {
-        public static final int  layout_gridView=0x7f0c0081;
         public static final int Settings=0x7f0c009d;
         public static final int about=0x7f0c009c;
         public static final int action0=0x7f0c0088;
@@ -1935,6 +1934,7 @@ containing a value of this type.
         public static final int layoutTitle=0x7f0c0058;
         public static final int layoutURl=0x7f0c005e;
         public static final int layoutVersion=0x7f0c005a;
+        public static final int layout_gridView=0x7f0c0081;
         public static final int light_theme=0x7f0c009f;
         public static final int line1=0x7f0c0097;
         public static final int line3=0x7f0c0099;
