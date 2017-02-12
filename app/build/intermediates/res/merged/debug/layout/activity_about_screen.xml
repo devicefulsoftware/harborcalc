@@ -45,7 +45,7 @@
         android:id="@+id/layoutVersion">
 
         <TextView
-            android:text="Version 0.1a"
+            android:text="Version 0.3a"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textVersion"

@@ -1842,9 +1842,9 @@ containing a value of this type.
         public static final int notify_panel_notification_icon_bg=0x7f02005e;
     }
     public static final class id {
-        public static final int Settings=0x7f0c009d;
-        public static final int about=0x7f0c009c;
-        public static final int action0=0x7f0c0088;
+        public static final int Settings=0x7f0c00a1;
+        public static final int about=0x7f0c00a0;
+        public static final int action0=0x7f0c008c;
         public static final int action_bar=0x7f0c0047;
         public static final int action_bar_activity_content=0x7f0c0000;
         public static final int action_bar_container=0x7f0c0046;
@@ -1852,17 +1852,17 @@ containing a value of this type.
         public static final int action_bar_spinner=0x7f0c0001;
         public static final int action_bar_subtitle=0x7f0c0025;
         public static final int action_bar_title=0x7f0c0024;
-        public static final int action_container=0x7f0c0085;
+        public static final int action_container=0x7f0c0089;
         public static final int action_context_bar=0x7f0c0048;
-        public static final int action_divider=0x7f0c008c;
-        public static final int action_image=0x7f0c0086;
+        public static final int action_divider=0x7f0c0090;
+        public static final int action_image=0x7f0c008a;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
         public static final int action_mode_bar=0x7f0c0044;
         public static final int action_mode_bar_stub=0x7f0c0043;
         public static final int action_mode_close_button=0x7f0c0026;
-        public static final int action_text=0x7f0c0087;
-        public static final int actions=0x7f0c0094;
+        public static final int action_text=0x7f0c008b;
+        public static final int actions=0x7f0c0098;
         public static final int activity_calculator_screen=0x7f0c0060;
         public static final int activity_chooser_view_content=0x7f0c0027;
         public static final int add=0x7f0c0013;
@@ -1891,34 +1891,35 @@ containing a value of this type.
         public static final int button_multiply=0x7f0c0072;
         public static final int button_plus=0x7f0c007c;
         public static final int button_rightParen=0x7f0c0066;
-        public static final int cancel_action=0x7f0c0089;
-        public static final int change_pass=0x7f0c009e;
+        public static final int cancel_action=0x7f0c008d;
+        public static final int change_pass=0x7f0c00a2;
         public static final int checkbox=0x7f0c003e;
-        public static final int chronometer=0x7f0c0091;
+        public static final int chronometer=0x7f0c0095;
         public static final int collapseActionView=0x7f0c001e;
         public static final int contentPanel=0x7f0c0031;
         public static final int custom=0x7f0c0038;
         public static final int customPanel=0x7f0c0037;
-        public static final int dark_theme=0x7f0c00a2;
+        public static final int dark_theme=0x7f0c00a6;
         public static final int decor_content_parent=0x7f0c0045;
         public static final int default_activity_button=0x7f0c002a;
         public static final int disableHome=0x7f0c000c;
         public static final int edit_query=0x7f0c0049;
         public static final int end=0x7f0c001b;
-        public static final int end_padder=0x7f0c009b;
-        public static final int exit=0x7f0c00a1;
+        public static final int end_padder=0x7f0c009f;
+        public static final int exit=0x7f0c00a5;
         public static final int expand_activities_button=0x7f0c0028;
         public static final int expanded_menu=0x7f0c003d;
-        public static final int gridHiddenMenu=0x7f0c0082;
         public static final int home=0x7f0c0004;
         public static final int homeAsUp=0x7f0c000d;
         public static final int icon=0x7f0c002c;
-        public static final int icon_group=0x7f0c0095;
+        public static final int icon_group=0x7f0c0099;
         public static final int ifRoom=0x7f0c001f;
         public static final int image=0x7f0c0029;
+        public static final int imageFiles=0x7f0c0083;
+        public static final int imageGallery=0x7f0c0082;
         public static final int imageLogo=0x7f0c007f;
         public static final int imageView=0x7f0c0057;
-        public static final int info=0x7f0c0092;
+        public static final int info=0x7f0c0096;
         public static final int layerLogo=0x7f0c007d;
         public static final int layerScroll=0x7f0c0061;
         public static final int layer_Ads=0x7f0c0080;
@@ -1928,33 +1929,34 @@ containing a value of this type.
         public static final int layer_fourthRow=0x7f0c0069;
         public static final int layer_secondRow=0x7f0c0073;
         public static final int layer_thirdRow=0x7f0c006e;
-        public static final int layoutAds=0x7f0c0083;
+        public static final int layoutAds=0x7f0c0087;
         public static final int layoutCopyright=0x7f0c005c;
         public static final int layoutLogo=0x7f0c0056;
         public static final int layoutTitle=0x7f0c0058;
         public static final int layoutURl=0x7f0c005e;
         public static final int layoutVersion=0x7f0c005a;
-        public static final int layout_gridView=0x7f0c0081;
-        public static final int light_theme=0x7f0c009f;
-        public static final int line1=0x7f0c0097;
-        public static final int line3=0x7f0c0099;
+        public static final int layout_Icons1=0x7f0c0081;
+        public static final int layout_text1=0x7f0c0084;
+        public static final int light_theme=0x7f0c00a3;
+        public static final int line1=0x7f0c009b;
+        public static final int line3=0x7f0c009d;
         public static final int listMode=0x7f0c0009;
         public static final int list_item=0x7f0c002b;
-        public static final int media_actions=0x7f0c008b;
+        public static final int media_actions=0x7f0c008f;
         public static final int middle=0x7f0c001c;
         public static final int multiply=0x7f0c0014;
         public static final int never=0x7f0c0020;
         public static final int none=0x7f0c000e;
         public static final int normal=0x7f0c000a;
-        public static final int notification_background=0x7f0c0093;
-        public static final int notification_main_column=0x7f0c008e;
-        public static final int notification_main_column_container=0x7f0c008d;
+        public static final int notification_background=0x7f0c0097;
+        public static final int notification_main_column=0x7f0c0092;
+        public static final int notification_main_column_container=0x7f0c0091;
         public static final int parentPanel=0x7f0c0030;
         public static final int progress_circular=0x7f0c0005;
         public static final int progress_horizontal=0x7f0c0006;
         public static final int radio=0x7f0c0040;
-        public static final int right_icon=0x7f0c0096;
-        public static final int right_side=0x7f0c008f;
+        public static final int right_icon=0x7f0c009a;
+        public static final int right_side=0x7f0c0093;
         public static final int screen=0x7f0c0015;
         public static final int scrollIndicatorDown=0x7f0c0036;
         public static final int scrollIndicatorUp=0x7f0c0032;
@@ -1979,29 +1981,31 @@ containing a value of this type.
         public static final int src_atop=0x7f0c0016;
         public static final int src_in=0x7f0c0017;
         public static final int src_over=0x7f0c0018;
-        public static final int status_bar_latest_event_content=0x7f0c008a;
+        public static final int status_bar_latest_event_content=0x7f0c008e;
         public static final int submenuarrow=0x7f0c0041;
         public static final int submit_area=0x7f0c0052;
         public static final int tabMode=0x7f0c000b;
-        public static final int text=0x7f0c009a;
-        public static final int text2=0x7f0c0098;
+        public static final int text=0x7f0c009e;
+        public static final int text2=0x7f0c009c;
         public static final int textCopyright=0x7f0c005d;
+        public static final int textFiles=0x7f0c0086;
+        public static final int textGallery=0x7f0c0085;
         public static final int textSpacerNoButtons=0x7f0c0035;
         public static final int textSpacerNoTitle=0x7f0c0034;
         public static final int textTitle=0x7f0c0059;
         public static final int textUrl=0x7f0c005f;
         public static final int textVersion=0x7f0c005b;
         public static final int textView=0x7f0c007e;
-        public static final int textView2=0x7f0c0084;
+        public static final int textView2=0x7f0c0088;
         public static final int textView_calc=0x7f0c0063;
-        public static final int time=0x7f0c0090;
+        public static final int time=0x7f0c0094;
         public static final int title=0x7f0c002d;
         public static final int titleDividerNoCustom=0x7f0c003c;
         public static final int title_template=0x7f0c003a;
         public static final int top=0x7f0c0023;
         public static final int topPanel=0x7f0c0039;
         public static final int up=0x7f0c0008;
-        public static final int update=0x7f0c00a0;
+        public static final int update=0x7f0c00a4;
         public static final int useLogo=0x7f0c0012;
         public static final int withText=0x7f0c0021;
         public static final int wrap_content=0x7f0c0019;
@@ -2070,7 +2074,9 @@ containing a value of this type.
         public static final int mainmenu_light=0x7f0e0002;
     }
     public static final class mipmap {
-        public static final int ic_launcher=0x7f030000;
+        public static final int ic_files_dark_launcher=0x7f030000;
+        public static final int ic_gallery_dark_launcher=0x7f030001;
+        public static final int ic_launcher=0x7f030002;
     }
     public static final class raw {
         public static final int snicker=0x7f060000;
@@ -6680,501 +6686,4 @@ containing a value of this type.
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#contentInsetEndWithActions}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:contentInsetEndWithActions
-        */
-        public static final int Toolbar_contentInsetEndWithActions = 10;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#contentInsetLeft}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:contentInsetLeft
-        */
-        public static final int Toolbar_contentInsetLeft = 7;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#contentInsetRight}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:contentInsetRight
-        */
-        public static final int Toolbar_contentInsetRight = 8;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#contentInsetStart}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:contentInsetStart
-        */
-        public static final int Toolbar_contentInsetStart = 5;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#contentInsetStartWithNavigation}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:contentInsetStartWithNavigation
-        */
-        public static final int Toolbar_contentInsetStartWithNavigation = 9;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#logo}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.devicefulsoftware.harborcalc_free:logo
-        */
-        public static final int Toolbar_logo = 4;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#logoDescription}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:logoDescription
-        */
-        public static final int Toolbar_logoDescription = 26;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#maxButtonHeight}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:maxButtonHeight
-        */
-        public static final int Toolbar_maxButtonHeight = 20;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#navigationContentDescription}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:navigationContentDescription
-        */
-        public static final int Toolbar_navigationContentDescription = 25;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#navigationIcon}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.devicefulsoftware.harborcalc_free:navigationIcon
-        */
-        public static final int Toolbar_navigationIcon = 24;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#popupTheme}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.devicefulsoftware.harborcalc_free:popupTheme
-        */
-        public static final int Toolbar_popupTheme = 11;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#subtitle}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:subtitle
-        */
-        public static final int Toolbar_subtitle = 3;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#subtitleTextAppearance}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.devicefulsoftware.harborcalc_free:subtitleTextAppearance
-        */
-        public static final int Toolbar_subtitleTextAppearance = 13;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#subtitleTextColor}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:subtitleTextColor
-        */
-        public static final int Toolbar_subtitleTextColor = 28;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#title}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:title
-        */
-        public static final int Toolbar_title = 2;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#titleMargin}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:titleMargin
-        */
-        public static final int Toolbar_titleMargin = 14;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#titleMarginBottom}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:titleMarginBottom
-        */
-        public static final int Toolbar_titleMarginBottom = 18;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#titleMarginEnd}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:titleMarginEnd
-        */
-        public static final int Toolbar_titleMarginEnd = 16;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#titleMarginStart}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:titleMarginStart
-        */
-        public static final int Toolbar_titleMarginStart = 15;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#titleMarginTop}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:titleMarginTop
-        */
-        public static final int Toolbar_titleMarginTop = 17;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#titleMargins}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:titleMargins
-        */
-        public static final int Toolbar_titleMargins = 19;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#titleTextAppearance}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.devicefulsoftware.harborcalc_free:titleTextAppearance
-        */
-        public static final int Toolbar_titleTextAppearance = 12;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#titleTextColor}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:titleTextColor
-        */
-        public static final int Toolbar_titleTextColor = 27;
-        /** Attributes that can be used with a View.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.devicefulsoftware.harborcalc_free:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.devicefulsoftware.harborcalc_free:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.devicefulsoftware.harborcalc_free:theme}</code></td><td></td></tr>
-           </table>
-           @see #View_android_focusable
-           @see #View_android_theme
-           @see #View_paddingEnd
-           @see #View_paddingStart
-           @see #View_theme
-         */
-        public static final int[] View = {
-            0x01010000, 0x010100da, 0x7f0100df, 0x7f0100e0,
-            0x7f0100e1
-        };
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#focusable}
-          attribute's value can be found in the {@link #View} array.
-          @attr name android:focusable
-        */
-        public static final int View_android_focusable = 1;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#theme}
-          attribute's value can be found in the {@link #View} array.
-          @attr name android:theme
-        */
-        public static final int View_android_theme = 0;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#paddingEnd}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:paddingEnd
-        */
-        public static final int View_paddingEnd = 3;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#paddingStart}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:paddingStart
-        */
-        public static final int View_paddingStart = 2;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#theme}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.devicefulsoftware.harborcalc_free:theme
-        */
-        public static final int View_theme = 4;
-        /** Attributes that can be used with a ViewBackgroundHelper.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.devicefulsoftware.harborcalc_free:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.devicefulsoftware.harborcalc_free:backgroundTintMode}</code></td><td></td></tr>
-           </table>
-           @see #ViewBackgroundHelper_android_background
-           @see #ViewBackgroundHelper_backgroundTint
-           @see #ViewBackgroundHelper_backgroundTintMode
-         */
-        public static final int[] ViewBackgroundHelper = {
-            0x010100d4, 0x7f0100e2, 0x7f0100e3
-        };
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#background}
-          attribute's value can be found in the {@link #ViewBackgroundHelper} array.
-          @attr name android:background
-        */
-        public static final int ViewBackgroundHelper_android_background = 0;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#backgroundTint}
-          attribute's value can be found in the {@link #ViewBackgroundHelper} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.devicefulsoftware.harborcalc_free:backgroundTint
-        */
-        public static final int ViewBackgroundHelper_backgroundTint = 1;
-        /**
-          <p>This symbol is the offset where the {@link com.devicefulsoftware.harborcalc_free.R.attr#backgroundTintMode}
-          attribute's value can be found in the {@link #ViewBackgroundHelper} array.
-
-
-          <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
-<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
-<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
-<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
-<tr><td><code>screen</code></td><td>15</td><td></td></tr>
-</table>
-          @attr name com.devicefulsoftware.harborcalc_free:backgroundTintMode
-        */
-        public static final int ViewBackgroundHelper_backgroundTintMode = 2;
-        /** Attributes that can be used with a ViewStubCompat.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ViewStubCompat_android_id android:id}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewStubCompat_android_inflatedId android:inflatedId}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewStubCompat_android_layout android:layout}</code></td><td></td></tr>
-           </table>
-           @see #ViewStubCompat_android_id
-           @see #ViewStubCompat_android_inflatedId
-           @see #ViewStubCompat_android_layout
-         */
-        public static final int[] ViewStubCompat = {
-            0x010100d0, 0x010100f2, 0x010100f3
-        };
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#id}
-          attribute's value can be found in the {@link #ViewStubCompat} array.
-          @attr name android:id
-        */
-        public static final int ViewStubCompat_android_id = 0;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#inflatedId}
-          attribute's value can be found in the {@link #ViewStubCompat} array.
-          @attr name android:inflatedId
-        */
-        public static final int ViewStubCompat_android_inflatedId = 2;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#layout}
-          attribute's value can be found in the {@link #ViewStubCompat} array.
-          @attr name android:layout
-        */
-        public static final int ViewStubCompat_android_layout = 1;
-    };
-}
+  

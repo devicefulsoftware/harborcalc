@@ -1,19 +1,19 @@
 [
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_tile_bg.xml"
-    },
-    {
         "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
         "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
