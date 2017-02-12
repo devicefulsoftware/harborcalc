@@ -96,6 +96,10 @@
         "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/layout/activity_audio_screen.xml",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/layout/activity_audio_screen.xml"
+    },
+    {
         "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
     },

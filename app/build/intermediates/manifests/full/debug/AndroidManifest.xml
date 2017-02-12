@@ -56,6 +56,14 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.devicefulsoftware.harborcalc_free.contactMenu" />
         </activity>
+        <activity
+            android:name="com.devicefulsoftware.harborcalc_free.audioScreen"
+            android:parentActivityName="com.devicefulsoftware.harborcalc_free.hiddenMenu"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.devicefulsoftware.harborcalc_free.audioScreen" />
+        </activity>
     </application>
 
 </manifest>

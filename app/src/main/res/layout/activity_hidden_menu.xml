@@ -24,7 +24,8 @@
                     android:layout_height="wrap_content"
                     app:srcCompat="@mipmap/ic_audio_dark_launcher"
                     android:id="@+id/imageAudio"
-                    android:layout_weight="1" />
+                    android:layout_weight="1"
+                    android:onClick="audioMenu"/>
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -47,7 +48,8 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/textAudio"
                     android:layout_weight="1"
-                    android:textAlignment="center" />
+                    android:textAlignment="center"
+                    android:onClick="audioMenu"/>
 
                 <TextView
                     android:text="Camera"

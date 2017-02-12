@@ -219,5 +219,9 @@ public class hiddenMenu extends AppCompatActivity{
         startActivity(new Intent(hiddenMenu.this, contactMenu.class));
         this.hasOffspring_living = true;
     }
+    public void audioMenu(View view){
+        startActivity(new Intent(hiddenMenu.this, audioScreen.class));
+        this.hasOffspring_living = true;
+    }
 
 }

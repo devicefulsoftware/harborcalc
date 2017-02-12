@@ -5,33 +5,46 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="34164870497786"
+    timestamp="35310357903558"
     token="7987607245404186654"
-    verifier="BINARY_MANIFEST_FILE_CHANGE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="141" />
+        duration="87" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="43" />
+        duration="19" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="34164870497786"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="34918909364845"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="35310357903558"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
