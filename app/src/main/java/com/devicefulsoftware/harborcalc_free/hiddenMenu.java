@@ -57,7 +57,7 @@ public class hiddenMenu extends AppCompatActivity{
         ImageView imageGallery = (ImageView)findViewById(R.id.imageGallery);
         if (themePreference.getString("Theme","HarborCalcDark").equals("HarborCalcDark")){
             imageFiles.setImageResource(R.mipmap.ic_files_dark_launcher);
-            imageGallery.setImageResource(R.mipmap.ic_gallery_dark_launcher);
+            //imageGallery.setImageResource(R.mipmap.ic_gallery_dark_launcher);
         }else{
             imageFiles.setImageResource(R.mipmap.ic_files_light_launcher);
             imageGallery.setImageResource(R.mipmap.ic_gallery_light_launcher);
