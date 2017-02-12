@@ -1,7 +1,4 @@
-#Sat Feb 11 22:51:49 CST 2017
-base.0=/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_abaf421b07e3025af64f7c0ac66838714794f048
-renamed.1=classes2.dex
+#Sat Feb 11 23:16:22 CST 2017
+base.0=/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3db129efab4173aafa0bde7de2fa5096b922afe/classes.dex
-base.1=/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3db129efab4173aafa0bde7de2fa5096b922afe
-file.0=/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_abaf421b07e3025af64f7c0ac66838714794f048/classes.dex
+file.0=/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
