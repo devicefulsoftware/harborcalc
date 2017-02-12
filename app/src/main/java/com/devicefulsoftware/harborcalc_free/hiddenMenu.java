@@ -6,6 +6,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.drawable.Drawable;
 import android.hardware.Sensor;
 import android.hardware.SensorManager;
 import android.os.Bundle;
@@ -21,6 +22,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.AdapterView;
 import android.widget.GridView;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 /**
@@ -44,11 +46,22 @@ public class hiddenMenu extends AppCompatActivity{
         SharedPreferences themePreference = getSharedPreferences(calculatorScreen.HARBORCALC_PREFERENCES, 0);
         if (themePreference.getString("Theme","HarborCalcDark").equals("HarborCalcDark")){
             setTheme(R.style.Theme_HarborCalcDark);
+
         }else{
             setTheme(R.style.Theme_HarborCalcLight);
         }
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE);
         setContentView(R.layout.activity_hidden_menu);
+        //Get Launchers and instantiate as variables
+        ImageView imageFiles = (ImageView)findViewById(R.id.imageFiles);
+        ImageView imageGallery = (ImageView)findViewById(R.id.imageGallery);
+        if (themePreference.getString("Theme","HarborCalcDark").equals("HarborCalcDark")){
+            imageFiles.setImageResource(R.mipmap.ic_files_dark_launcher);
+            imageGallery.setImageResource(R.mipmap.ic_gallery_dark_launcher);
+        }else{
+            imageFiles.setImageResource(R.mipmap.ic_files_light_launcher);
+            imageGallery.setImageResource(R.mipmap.ic_gallery_light_launcher);
+        }
         this.loadSettings();
         if (this.hasAccel()){
             this.detectShake();

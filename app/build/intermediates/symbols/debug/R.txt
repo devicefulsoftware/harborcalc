@@ -749,8 +749,10 @@ int menu hiddenmenu 0x7f0e0000
 int menu mainmenu_dark 0x7f0e0001
 int menu mainmenu_light 0x7f0e0002
 int mipmap ic_files_dark_launcher 0x7f030000
-int mipmap ic_gallery_dark_launcher 0x7f030001
-int mipmap ic_launcher 0x7f030002
+int mipmap ic_files_light_launcher 0x7f030001
+int mipmap ic_gallery_dark_launcher 0x7f030002
+int mipmap ic_gallery_light_launcher 0x7f030003
+int mipmap ic_launcher 0x7f030004
 int raw snicker 0x7f060000
 int string abc_action_bar_home_description 0x7f070000
 int string abc_action_bar_home_description_format 0x7f070001

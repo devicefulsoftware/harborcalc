@@ -3,42 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/home/cletus/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_d0fa3624e75285a14a1d1f211bc82af71796ef8d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aa02acde68a0123a6ac1d91c68c3a32a00e47e32">
-        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3db129efab4173aafa0bde7de2fa5096b922afe/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_63d59f6c98cfe6ca9e767228159d7677239934bb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_828697fabb5f0cb7765765da2812d2a26d50921b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -57,15 +21,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_b1d4d389759ec386195121774ec6d7ffbf97a4ba/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/libs/bsh-2.0b4.jar"
         jumboMode="true"
         optimize="true"
@@ -79,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7fb3dd7f5f84bfe4a16debdd6f79977f01d4de4a">
+        sha1="827a949c94b15dba1fb531c0107bfcf74aeb6546">
         <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_abaf421b07e3025af64f7c0ac66838714794f048/classes.dex" />
     </item>
     <item
@@ -117,6 +72,51 @@
         revision="25.0.2"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
         <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_01b715f9384ea20b8c4374976ff04e6e278cd49b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cletus/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_d0fa3624e75285a14a1d1f211bc82af71796ef8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a13c99550a1df25dc135d4652b57a3cbefaafafe">
+        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3db129efab4173aafa0bde7de2fa5096b922afe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_63d59f6c98cfe6ca9e767228159d7677239934bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_828697fabb5f0cb7765765da2812d2a26d50921b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_b1d4d389759ec386195121774ec6d7ffbf97a4ba/classes.dex" />
     </item>
 
 </items>

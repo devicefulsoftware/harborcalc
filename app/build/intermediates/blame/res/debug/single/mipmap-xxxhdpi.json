@@ -8,7 +8,15 @@
         "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_files_light_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-xxxhdpi/ic_files_light_launcher.png"
+    },
+    {
         "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_files_dark_launcher.png",
         "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-xxxhdpi/ic_files_dark_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_gallery_light_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-xxxhdpi/ic_gallery_light_launcher.png"
     }
 ]
