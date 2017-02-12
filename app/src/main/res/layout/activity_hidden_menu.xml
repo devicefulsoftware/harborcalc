@@ -16,8 +16,102 @@
             <LinearLayout
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:id="@+id/layout_Icons1">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/ic_audio_dark_launcher"
+                    android:id="@+id/imageAudio"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/ic_camera_dark_launcher"
+                    android:id="@+id/imageCamera"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/layout_text1">
+
+                <TextView
+                    android:text="Audio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textAudio"
+                    android:layout_weight="1"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:text="Camera"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textCamera"
+                    android:layout_weight="1"
+                    android:textAlignment="center" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/layout_Icons2">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/ic_contacts_dark_launcher"
+                    android:id="@+id/imageContacts"
+                    android:layout_weight="1"
+                    android:onClick="contactsMenu"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/ic_files_dark_launcher"
+                    android:id="@+id/imageFiles"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/layout_Text2">
+
+                <TextView
+                    android:text="Contacts"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textContacts"
+                    android:layout_weight="1"
+                    android:textAlignment="center"
+                    android:onClick="contactsMenu"/>
+
+                <TextView
+                    android:text="Files"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textFiles"
+                    android:layout_weight="1"
+                    android:textAlignment="center" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/layout_Icons3">
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -29,16 +123,17 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    app:srcCompat="@mipmap/ic_files_dark_launcher"
-                    android:id="@+id/imageFiles"
+                    app:srcCompat="@mipmap/ic_notes_dark_launcher"
+                    android:id="@+id/imageNotes"
                     android:layout_weight="1" />
+
             </LinearLayout>
 
             <LinearLayout
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:id="@+id/layout_text1">
+                android:layout_height="wrap_content"
+                android:id="@+id/layout_Text3">
 
                 <TextView
                     android:text="Gallery"
@@ -49,12 +144,13 @@
                     android:textAlignment="center" />
 
                 <TextView
-                    android:text="Files"
+                    android:text="Notes"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textFiles"
+                    android:id="@+id/textNotes"
                     android:layout_weight="1"
                     android:textAlignment="center" />
+
             </LinearLayout>
 
             <LinearLayout

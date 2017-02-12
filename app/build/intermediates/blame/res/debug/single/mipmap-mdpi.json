@@ -8,12 +8,52 @@
         "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_files_dark_launcher.png"
     },
     {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_contacts_light_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_contacts_light_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_camera_light_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_camera_light_launcher.png"
+    },
+    {
         "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_contacts_dark_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_contacts_dark_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_camera_dark_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_camera_dark_launcher.png"
+    },
+    {
         "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_files_light_launcher.png",
         "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_files_light_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_apps_light_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_apps_light_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_audio_dark_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_audio_dark_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_apps_dark_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_apps_dark_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_notes_dark_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_notes_dark_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_audio_light_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_audio_light_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_notes_light_launcher.png",
+        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/res/mipmap-mdpi/ic_notes_light_launcher.png"
     },
     {
         "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_gallery_light_launcher.png",

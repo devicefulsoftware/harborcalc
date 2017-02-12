@@ -53,14 +53,26 @@ public class hiddenMenu extends AppCompatActivity{
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE);
         setContentView(R.layout.activity_hidden_menu);
         //Get Launchers and instantiate as variables
+        ImageView imageAudio = (ImageView)findViewById(R.id.imageAudio);
+        ImageView imageCamera = (ImageView)findViewById(R.id.imageCamera);
+        ImageView imageContacts = (ImageView)findViewById(R.id.imageContacts);
         ImageView imageFiles = (ImageView)findViewById(R.id.imageFiles);
         ImageView imageGallery = (ImageView)findViewById(R.id.imageGallery);
+        ImageView imageNotes = (ImageView)findViewById(R.id.imageNotes);
         if (themePreference.getString("Theme","HarborCalcDark").equals("HarborCalcDark")){
+            imageAudio.setImageResource(R.mipmap.ic_audio_dark_launcher);
+            imageCamera.setImageResource(R.mipmap.ic_camera_dark_launcher);
+            imageContacts.setImageResource(R.mipmap.ic_contacts_dark_launcher);
             imageFiles.setImageResource(R.mipmap.ic_files_dark_launcher);
-            //imageGallery.setImageResource(R.mipmap.ic_gallery_dark_launcher);
+            imageGallery.setImageResource(R.mipmap.ic_gallery_dark_launcher);
+            imageNotes.setImageResource(R.mipmap.ic_notes_dark_launcher);
         }else{
+            imageAudio.setImageResource(R.mipmap.ic_audio_light_launcher);
+            imageCamera.setImageResource(R.mipmap.ic_camera_light_launcher);
+            imageContacts.setImageResource(R.mipmap.ic_contacts_light_launcher);
             imageFiles.setImageResource(R.mipmap.ic_files_light_launcher);
             imageGallery.setImageResource(R.mipmap.ic_gallery_light_launcher);
+            imageNotes.setImageResource(R.mipmap.ic_notes_light_launcher);
         }
         this.loadSettings();
         if (this.hasAccel()){
