@@ -49,7 +49,7 @@ public class audioScreen extends AppCompatActivity{
         if (this.hasAccel()){
             this.detectShake();
         }
-        File dir = new File("/");
+        /*File dir = new File("/");
         File[] filelist = dir.listFiles();
         ListView list = (ListView)findViewById(R.id.listAudio);
         ArrayList<String> arrayList = new ArrayList<String>();
@@ -58,7 +58,7 @@ public class audioScreen extends AppCompatActivity{
         for(int i = 0; i < filelist.length;i++){
             arrayList.add(filelist[i].getName());
             adapter.notifyDataSetChanged();
-        }
+        }*/
     }
     @Override
     protected void onPause() {
