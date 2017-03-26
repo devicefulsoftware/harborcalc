@@ -1,4 +1,4 @@
-#Sat Mar 25 22:30:00 CDT 2017
+#Sat Mar 25 22:43:22 CDT 2017
 base.0=/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c70dcf7c1d10aa335047ce348abb73ef23109d4
 renamed.1=classes.dex
 renamed.0=classes2.dex
