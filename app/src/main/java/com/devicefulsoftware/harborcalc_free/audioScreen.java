@@ -10,6 +10,11 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
 import android.view.WindowManager;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+
+import java.io.File;
+import java.util.ArrayList;
 
 /**
  * Created by cletus on 2/12/17.
@@ -43,6 +48,16 @@ public class audioScreen extends AppCompatActivity{
         setContentView(R.layout.activity_audio_screen);
         if (this.hasAccel()){
             this.detectShake();
+        }
+        File dir = new File("/");
+        File[] filelist = dir.listFiles();
+        ListView list = (ListView)findViewById(R.id.listAudio);
+        ArrayList<String> arrayList = new ArrayList<String>();
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, arrayList);
+        list.setAdapter(adapter);
+        for(int i = 0; i < filelist.length;i++){
+            arrayList.add(filelist[i].getName());
+            adapter.notifyDataSetChanged();
         }
     }
     @Override

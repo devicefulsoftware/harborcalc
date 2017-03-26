@@ -1,5 +1,6 @@
 package com.devicefulsoftware.harborcalc_free;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -54,6 +55,7 @@ public class contactMenu extends AppCompatActivity{
         finish();
     }
 
+    @SuppressLint("MissingSuperCall")
     @Override
     protected void onResume(){
         mSensorManager.registerListener(mDetector, mAccelerometer, SensorManager.SENSOR_DELAY_UI);

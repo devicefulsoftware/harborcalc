@@ -1,121 +1,125 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:2:1-62:12
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:2:1-63:12
 	package
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:3:5-52
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:5:5-80
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:5:5-80
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:5:22-78
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:6:22-77
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:6:5-71
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:7:5-71
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:6:22-69
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:7:22-69
 uses-permission#android.permission.WRITE_CONTACTS
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:7:5-72
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:8:5-72
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:7:22-70
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:8:22-70
 application
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:9:5-60:19
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:10:5-61:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/cletus/.android/build-cache/e597265d8714b747643025af27d841ea23d13449/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/cletus/.android/build-cache/f3e13124a1dae935dbc9d89b018c03fd8689b60c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/cletus/.android/build-cache/d30f79978a172e6d6b25e47e62e31398ee7faf13/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/cletus/.android/build-cache/29a08721306cbd3a8a5b2f00e1ab9b41a9a10bb0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/cletus/.android/build-cache/cbf8fdd3c44bbe2ff5a9d5a9175024df7380cd91/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/cletus/.android/build-cache/fbdac408d02368ad900a5442505fe183980ec24c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/cletus/.android/build-cache/e34fbb67e207d4de5b87a5db4373ef4d7edcfd9e/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/cletus/.android/build-cache/8a071d93273c0b908b4b9cd9dd9d1fea779d8622/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:13:9-35
 	android:supportsRtl
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:11:9-35
 	android:icon
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:12:9-43
 	android:theme
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:14:9-52
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:15:9-52
 activity#com.devicefulsoftware.harborcalc_free.calculatorScreen
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:17:9-24:20
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:18:9-25:20
 	android:screenOrientation
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:18:13-49
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:19:13-49
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:17:19-51
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:18:19-51
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:20:17-68
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:21:17-68
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:23:27-74
 activity#com.devicefulsoftware.harborcalc_free.aboutScreen
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:26:9-33:20
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:27:9-34:20
 	android:screenOrientation
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:29:13-49
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:30:13-49
 	android:parentActivityName
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:28:13-59
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:29:13-59
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:27:13-40
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:28:13-40
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:30:13-32:89
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:31:13-33:89
 	android:value
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:32:17-87
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:33:17-87
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:31:17-63
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:32:17-63
 activity#com.devicefulsoftware.harborcalc_free.hiddenMenu
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:34:9-42:20
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:35:9-43:20
 	android:screenOrientation
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:37:13-49
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:38:13-49
 	android:parentActivityName
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:36:13-59
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:37:13-59
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:35:13-39
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:36:13-39
 activity#com.devicefulsoftware.harborcalc_free.contactMenu
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:43:9-50:20
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:44:9-51:20
 	android:screenOrientation
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:46:13-49
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:47:13-49
 	android:parentActivityName
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:45:13-53
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:46:13-53
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:44:13-40
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:45:13-40
 activity#com.devicefulsoftware.harborcalc_free.audioScreen
-ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:51:9-58:20
+ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:52:9-59:20
 	android:screenOrientation
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:54:13-49
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:55:13-49
 	android:parentActivityName
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:53:13-53
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:54:13-53
 	android:name
-		ADDED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml:52:13-40
+		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:53:13-40
 uses-sdk
-INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /home/cletus/.android/build-cache/e597265d8714b747643025af27d841ea23d13449/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/cletus/.android/build-cache/f3e13124a1dae935dbc9d89b018c03fd8689b60c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/cletus/.android/build-cache/d30f79978a172e6d6b25e47e62e31398ee7faf13/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/cletus/.android/build-cache/29a08721306cbd3a8a5b2f00e1ab9b41a9a10bb0/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/cletus/.android/build-cache/cbf8fdd3c44bbe2ff5a9d5a9175024df7380cd91/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/cletus/.android/build-cache/fbdac408d02368ad900a5442505fe183980ec24c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/cletus/.android/build-cache/e34fbb67e207d4de5b87a5db4373ef4d7edcfd9e/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/cletus/.android/build-cache/8a071d93273c0b908b4b9cd9dd9d1fea779d8622/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
-		INJECTED from /home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml

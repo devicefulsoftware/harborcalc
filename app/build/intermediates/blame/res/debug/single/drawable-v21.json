@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/drawable-v21/abc_btn_colored_material.xml"
     }
 ]

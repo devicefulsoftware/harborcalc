@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/home/cletus/Development/harborcalc/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+                    "file": "/home/cletus/.android/build-cache/db882d18590d7965466b96b6b99c66384b9ae36d/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

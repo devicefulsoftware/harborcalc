@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/cletus/Development/devicefulsoftware.com/projects/harborcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/layout-v21/notification_template_icon_group.xml"
     }
 ]
