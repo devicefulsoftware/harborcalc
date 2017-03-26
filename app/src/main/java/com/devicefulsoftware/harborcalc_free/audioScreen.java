@@ -10,11 +10,6 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
 import android.view.WindowManager;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
-
-import java.io.File;
-import java.util.ArrayList;
 
 /**
  * Created by cletus on 2/12/17.
