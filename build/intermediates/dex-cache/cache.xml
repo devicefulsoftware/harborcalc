@@ -47,6 +47,15 @@
         <dex dex="/home/cletus/Development/harborcalc/app/build/intermediates/pre-dexed/debug/classes_64d3d24507905ec704d13e09be5fc9ab31a610fe.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/cletus/Development/harborcalc/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ff3f8ebb9b752c2dd4c65018098c83f263c7ff">
+        <dex dex="/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9e6b6c6daa5b1cb33af92d832b277138dbb20842/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/cletus/.android/build-cache/cbf8fdd3c44bbe2ff5a9d5a9175024df7380cd91/output/jars/classes.jar"
         jumboMode="false"
@@ -54,6 +63,15 @@
         revision="25.0.2"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
         <dex dex="/home/cletus/Development/harborcalc/app/build/intermediates/pre-dexed/debug/classes_8af9e3035c4ebdedbdd6e32ab6d94aa3a1183086.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cletus/Development/harborcalc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c70dcf7c1d10aa335047ce348abb73ef23109d4/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -99,6 +117,15 @@
         revision="25.0.2"
         sha1="a05f0a0feefa8d8467ac80e16e7de071489f0d9c">
         <dex dex="/home/cletus/Development/harborcalc/app/build/intermediates/pre-dexed/debug/bsh-2.0b4_9314a11b37d2a8b9c89721cc31acd541605543c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cletus/Development/harborcalc/app/libs/bsh-2.0b4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a05f0a0feefa8d8467ac80e16e7de071489f0d9c">
+        <dex dex="/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/2/bsh-2.0b4_9314a11b37d2a8b9c89721cc31acd541605543c3/classes.dex" />
     </item>
 
 </items>
