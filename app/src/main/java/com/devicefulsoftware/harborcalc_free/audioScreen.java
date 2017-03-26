@@ -9,12 +9,17 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
+import android.view.View;
 import android.view.WindowManager;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
 
 /**
  * Created by cletus on 2/12/17.
@@ -49,17 +54,32 @@ public class audioScreen extends AppCompatActivity{
         if (this.hasAccel()){
             this.detectShake();
         }
-        File dir = new File("/");
-        File[] filelist = dir.listFiles();
         ListView list = (ListView)findViewById(R.id.listAudio);
-        ArrayList<String> arrayList = new ArrayList<String>();
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, arrayList);
-        list.setAdapter(adapter);
-        for(int i = 0; i < filelist.length;i++){
-            arrayList.add(filelist[i].getName());
-            adapter.notifyDataSetChanged();
-        }
+        ArrayList<String> FilesInFolder = GetFiles("/");
+
+        list.setAdapter(new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1, FilesInFolder));
+        list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            public void onItemClick(AdapterView<?> parent, View v, int position, long id) {
+                // Clicking on items
+            }
+        });
     }
+
+    public ArrayList<String> GetFiles(String DirectoryPath) {
+        ArrayList<String> MyFiles = new ArrayList<String>();
+        File f = new File(DirectoryPath);
+        f.mkdirs();
+        File[] files = f.listFiles();
+        if (files.length == 0)
+            return null;
+        else {
+            for (int i=0; i<files.length; i++)
+                MyFiles.add(files[i].getName());
+        }
+
+        return MyFiles;
+    }
+
     @Override
     protected void onPause() {
         super.onPause();
@@ -93,8 +113,7 @@ public class audioScreen extends AppCompatActivity{
     private void detectShake(){
         // mDetector initialization
         mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
-        mAccelerometer = mSensorManager
-                .getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
+        mAccelerometer = mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
         mDetector = new MovementDetector();
         mDetector.setMovementDetector(new MovementDetector.mDetector() {
             @Override

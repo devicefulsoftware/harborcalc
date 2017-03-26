@@ -11,7 +11,6 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
 import android.view.WindowManager;
-
 /**
  * Created by cletus on 1/28/17.
  */
@@ -54,7 +53,6 @@ public class contactMenu extends AppCompatActivity{
         mSensorManager.unregisterListener(mDetector);
         finish();
     }
-
     @SuppressLint("MissingSuperCall")
     @Override
     protected void onResume(){

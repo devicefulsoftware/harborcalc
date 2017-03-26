@@ -21,7 +21,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 import bsh.Interpreter;
-
 public class calculatorScreen extends AppCompatActivity {
     //Instantiate Global Variables
     boolean wasAnswered = false;
