@@ -6,26 +6,23 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1490501253524"
+    timestamp="1490501347171"
     token="5730844477515486468"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="116" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="9" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="/home/cletus/Development/harborcalc/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
     <artifact
         location="/home/cletus/Development/harborcalc/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
@@ -78,6 +75,11 @@
         <artifact
             location="/home/cletus/Development/harborcalc/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1490501347171"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/cletus/Development/harborcalc/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
