@@ -1,7 +1,4 @@
-#Wed May 24 10:49:11 CDT 2017
-base.0=/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c70dcf7c1d10aa335047ce348abb73ef23109d4
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9e6b6c6daa5b1cb33af92d832b277138dbb20842/classes.dex
-base.1=/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9e6b6c6daa5b1cb33af92d832b277138dbb20842
-file.0=/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c70dcf7c1d10aa335047ce348abb73ef23109d4/classes.dex
+#Wed May 24 14:49:44 CDT 2017
+base.0=/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/cletus/Development/harborcalc/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
