@@ -16,12 +16,12 @@
         "source": "/home/cletus/Development/harborcalc/app/src/main/res/mipmap-mdpi/ic_audio_light_launcher.png"
     },
     {
-        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_gallery_dark_launcher.png",
-        "source": "/home/cletus/Development/harborcalc/app/src/main/res/mipmap-mdpi/ic_gallery_dark_launcher.png"
-    },
-    {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/cletus/Development/harborcalc/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_gallery_dark_launcher.png",
+        "source": "/home/cletus/Development/harborcalc/app/src/main/res/mipmap-mdpi/ic_gallery_dark_launcher.png"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_contacts_light_launcher.png",

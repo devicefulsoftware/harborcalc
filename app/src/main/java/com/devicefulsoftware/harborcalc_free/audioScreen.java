@@ -55,14 +55,6 @@ public class audioScreen extends AppCompatActivity{
             this.detectShake();
         }
         ListView list = (ListView)findViewById(R.id.listAudio);
-        ArrayList<String> FilesInFolder = GetFiles("/");
-
-        list.setAdapter(new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1, FilesInFolder));
-        list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            public void onItemClick(AdapterView<?> parent, View v, int position, long id) {
-                // Clicking on items
-            }
-        });
     }
 
     public ArrayList<String> GetFiles(String DirectoryPath) {

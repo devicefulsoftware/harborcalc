@@ -1,42 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="23"
+    api-level="25"
     build-mode="COLD"
-    density="xxhdpi"
+    density="560dpi"
     format="10"
-    plugin-version="2.3.0"
-    timestamp="1490564313841"
+    plugin-version="2.3.2"
+    timestamp="1495655080202"
     token="5730844477515486468"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1682" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="153" />
     <task
         name="verifier"
-        duration="0" />
+        duration="38" />
 
     <artifact
-        location="/home/cletus/Development/harborcalc/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/home/cletus/Development/harborcalc/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1490560757966"
+        timestamp="1495654964312"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/home/cletus/Development/harborcalc/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/cletus/Development/harborcalc/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
         <artifact
             location="/home/cletus/Development/harborcalc/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
@@ -67,22 +61,20 @@
         <artifact
             location="/home/cletus/Development/harborcalc/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
+        <artifact
+            location="/home/cletus/Development/harborcalc/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cletus/Development/harborcalc/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1490564129977"
+        timestamp="1495655080202"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/cletus/Development/harborcalc/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1490564313841"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/cletus/Development/harborcalc/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

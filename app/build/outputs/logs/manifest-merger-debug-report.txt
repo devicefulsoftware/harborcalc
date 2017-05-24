@@ -31,15 +31,15 @@ ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:
 		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:7:22-70
 application
 ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:9:5-60:19
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.0] /home/cletus/.android/build-cache/e597265d8714b747643025af27d841ea23d13449/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] /home/cletus/.android/build-cache/f3e13124a1dae935dbc9d89b018c03fd8689b60c/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/cletus/.android/build-cache/d30f79978a172e6d6b25e47e62e31398ee7faf13/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/cletus/.android/build-cache/29a08721306cbd3a8a5b2f00e1ab9b41a9a10bb0/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/cletus/.android/build-cache/cbf8fdd3c44bbe2ff5a9d5a9175024df7380cd91/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/cletus/.android/build-cache/fbdac408d02368ad900a5442505fe183980ec24c/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/cletus/.android/build-cache/e34fbb67e207d4de5b87a5db4373ef4d7edcfd9e/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.1.0] /home/cletus/.android/build-cache/8a071d93273c0b908b4b9cd9dd9d1fea779d8622/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/cletus/.android/build-cache/3591a3cf4b20282de85440aa715b1f14d9d6c373/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/cletus/.android/build-cache/e741de4247ba33f370ccfd251e928be87f71a3f9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/cletus/.android/build-cache/b98f126f936f8db5e1b3d17e89de760da9335db2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/cletus/.android/build-cache/6dbdd1601fa24d37fbcdea1bebb21a9a5e115857/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/cletus/.android/build-cache/09b91f0ac86f5826cfa43d5dec8286911b711fcb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/cletus/.android/build-cache/cd7e78c09418fd8e941d040fff97b9321ef202ec/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/cletus/.android/build-cache/c1b95e6b4b1224096bedf6abc78898513b7d27db/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/cletus/.android/build-cache/d06869f9872a16861629b84343b2d02789754fcd/output/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:12:9-35
 	android:supportsRtl
@@ -106,17 +106,17 @@ ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:
 		ADDED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml:52:13-40
 uses-sdk
 INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.1.0] /home/cletus/.android/build-cache/e597265d8714b747643025af27d841ea23d13449/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] /home/cletus/.android/build-cache/f3e13124a1dae935dbc9d89b018c03fd8689b60c/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/cletus/.android/build-cache/d30f79978a172e6d6b25e47e62e31398ee7faf13/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/cletus/.android/build-cache/29a08721306cbd3a8a5b2f00e1ab9b41a9a10bb0/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/cletus/.android/build-cache/cbf8fdd3c44bbe2ff5a9d5a9175024df7380cd91/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/cletus/.android/build-cache/fbdac408d02368ad900a5442505fe183980ec24c/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/cletus/.android/build-cache/e34fbb67e207d4de5b87a5db4373ef4d7edcfd9e/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.1.0] /home/cletus/.android/build-cache/8a071d93273c0b908b4b9cd9dd9d1fea779d8622/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /home/cletus/.android/build-cache/3591a3cf4b20282de85440aa715b1f14d9d6c373/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/cletus/.android/build-cache/e741de4247ba33f370ccfd251e928be87f71a3f9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/cletus/.android/build-cache/b98f126f936f8db5e1b3d17e89de760da9335db2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/cletus/.android/build-cache/6dbdd1601fa24d37fbcdea1bebb21a9a5e115857/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/cletus/.android/build-cache/09b91f0ac86f5826cfa43d5dec8286911b711fcb/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/cletus/.android/build-cache/cd7e78c09418fd8e941d040fff97b9321ef202ec/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/cletus/.android/build-cache/c1b95e6b4b1224096bedf6abc78898513b7d27db/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/cletus/.android/build-cache/d06869f9872a16861629b84343b2d02789754fcd/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml
 		INJECTED from /home/cletus/Development/harborcalc/app/src/main/AndroidManifest.xml

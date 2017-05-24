@@ -1,42 +1,42 @@
 [
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_slide_in_bottom.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_popup_exit.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_fade_in.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_fade_out.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_slide_out_bottom.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_popup_enter.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_slide_in_top.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/home/cletus/Development/harborcalc/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/cletus/.android/build-cache/1597d8a95a3921abf4857d7f009907da6495c0df/output/res/anim/abc_slide_out_top.xml"
+        "source": "/home/cletus/.android/build-cache/6e9864071bc15859de9c9f287fe9946dda5a91d5/output/res/anim/abc_slide_out_top.xml"
     }
 ]
